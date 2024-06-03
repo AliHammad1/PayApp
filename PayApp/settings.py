@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-fv!7(#44ym6$ua$*clknm(fbb#1zq_1qz5+h%p5#cb!1uq$e9u
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://pay-app-ashen.vercel.app/','*']
 
 
 # Application definition
